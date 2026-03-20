@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Aoun Raza
 
-<!--
-**SyedAoun5/SyedAoun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student  
+📍 Pakistan  
+💡 Passionate about turning data into meaningful insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📊 Currently learning **Data Science & Machine Learning**
+- 🐍 Working with **Python, Pandas, NumPy**
+- 📈 Interested in **Data Analysis & Visualization**
+- 🤖 Exploring **AI & Real-world problem solving**
+- 📚 Always learning new tools and technologies
+
+---
+
+## 🛠️ Skills & Tools
+- Programming: Python, C++
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Tools: Git, GitHub, VS Code
+- Concepts: OOP, Data Structures, Algorithm
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning Algorithms
+- Data Visualization Techniques
+- Git & GitHub Advanced Features
+
+---
+
+⭐ *“Learning never stops in Data Science.”*
